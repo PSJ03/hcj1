@@ -65,3 +65,8 @@ ul {
   color: blue;
   line-height: 2.5;
 }
+
+button {
+  border-radius: 12px;
+  padding: 4.5px;
+}
