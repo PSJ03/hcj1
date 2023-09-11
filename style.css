@@ -67,6 +67,17 @@ ul {
 }
 
 button {
-  border-radius: 12px;
+  border-radius: 10px;
   padding: 4.5px;
+  margin: 2px;
+}
+
+.btt {
+  font-weight: bold;
+  font-family: 'Malgun Gothic';
+}
+
+button:hover {
+  color: red;
+  background-color: yellow;
 }
