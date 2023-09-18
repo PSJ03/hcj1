@@ -25,7 +25,7 @@ function showhtml() {
 function showcss() {
   document.getElementById('fig').src = 'img/css3.jpg'
   document.getElementById('desc').innerHTML =
-    '<b>CSS3</b>는 GRML 문서의 스타일을 지정하기 위한 언어이다.'
+    '<b>CSS3</b>는 HTML 문서의 스타일을 지정하기 위한 언어이다.'
 }
 
 function showjs() {
